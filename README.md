@@ -97,18 +97,4 @@ expo start
 - Fraud detection and prevention mechanisms
 - User privacy protection with anonymized reporting options
 
-## 🤝 Contributing
 
-We welcome contributions to make roads safer! Please read our contributing guidelines and code of conduct.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For support and queries, contact our team at support@cacheapp.com
-
----
-
-**Remember**: Only genuine, original photos are rewarded. Help us build safer roads responsibly! 🛡️
